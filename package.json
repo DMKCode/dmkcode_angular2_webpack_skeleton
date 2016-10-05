@@ -1,5 +1,5 @@
 {
-  "name": "dmkcode_angular2_skeleton",
+  "name": "timer_angular2_rxjs",
   "version": "1.0.0",
   "description": "",
   "main": "bootstrap.ts",
@@ -31,6 +31,8 @@
     "zone.js": "^0.6.25"
   },
   "devDependencies": {
+    "@types/core-js": "^0.9.34",
+    "@types/node": "^6.0.42",
     "concurrently": "^2.0.0",
     "copy-webpack-plugin": "^1.1.1",
     "file-loader": "^0.8.5",
@@ -38,10 +40,10 @@
     "img-loader": "^1.2.2",
     "raw-loader": "^0.5.1",
     "sass-loader": "^3.2.0",
-    "ts-loader": "^0.8.1",
+    "ts-loader": "^0.8.2",
     "tslint": "^3.6.0",
     "tslint-loader": "^2.1.3",
-    "typescript": "^1.8.9",
+    "typescript": "^2.0.3",
     "typings": "^0.7.9",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.14",
